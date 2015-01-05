@@ -115,15 +115,18 @@
    <text xml:lang="eng">
       <body>
          <div type="illustration">
-            <pb facs="tcp:033435_0000_0FF7478B898560C0"/>
-            <pb facs="tcp:033435_0001_0FF746F00758A168" rendition="simple:additions"/>
-            <pb facs="tcp:033435_0002_0FF746F9EA8A7120" rendition="simple:additions"/>
+            <pb facs="unknown:033435_0000_0FF7478B898560C0"/>
+            <pb facs="unknown:033435_0001_0FF746F00758A168"
+                rendition="simple:additions"/>
+            <pb facs="unknown:033435_0002_0FF746F9EA8A7120"
+                rendition="simple:additions"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="text">
-            <pb facs="tcp:033435_0003_0FF7470199AFFD20" rendition="simple:additions"/>
+            <pb facs="unknown:033435_0003_0FF7470199AFFD20"
+                rendition="simple:additions"/>
             <head>COUNTRY HABITATIONS.</head>
             <p>SECURITY against <hi>Fire</hi> and <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -132,7 +135,7 @@
             </p>
             <p>The floors of basement stories in dwelling houses, are wholesomer and better when <hi>solid</hi> and of the common <hi>earth,</hi> naked or laid with brick, stone, or cement, than floors laid upon joists over cellars or near the ground. Floors laid on joists near the ground or over cellars, confute a
 <pb n="2"
-                   facs="tcp:033435_0004_0FF747063311F1B0"
+                   facs="unknown:033435_0004_0FF747063311F1B0"
                    rendition="simple:additions"/>
 damp air under them long enough for becoming an une<g ref="char:EOLhyphen"/>lastic dead air; which producing a mouldiness and smell of vaults, gradually is mixed with the air of the roofs above, so as to be even smelt in some. Delicate people, used to dry warm houses of the towns, seldom take a cold on sleeping in log pens or houses having <hi>damp earthen floors,</hi> when they travel in the frontier of the country.</p>
             <p>Court houses and other stone or brick buildings, which are not airy, when shut up for some time, contain a somewhat stagnant unelastic damp air, which is also un<g ref="char:EOLhyphen"/>wholesome: but this is not at all the case of <hi>inhabited, much-frequented,</hi> or <hi>airy</hi> houses; when the air has some degree of current, and is all <hi>alive.</hi>
@@ -141,7 +144,7 @@ damp air under them long enough for becoming an une<g ref="char:EOLhyphen"/>last
                </note> Carpets may cover the whole. The wash-boards and surbase may be of cut stone or marble. The floor of the third story to be laid with thick narrow boards and cement as the first; but the wash-boards to be of cement rounded off. Cel<g ref="char:EOLhyphen"/>lars to be under a detached building, or under the stair<g ref="char:EOLhyphen"/>case, or some one room of the principal house.</p>
             <p>Wood is to be avoided as much as possible. The door and window frames may be of stone or iron<g ref="char:punc">▪</g> The joists and boards for the platform roof and floors, also for the stair case if this should be of wood, are all to be defended
 <pb n="3"
-                   facs="tcp:033435_0005_0FF7470A0650DA10"
+                   facs="unknown:033435_0005_0FF7470A0650DA10"
                    rendition="simple:additions"/>
 from contact of fire by cements. No outside cornish is requisite to a platform roof.</p>
             <p>
@@ -149,9 +152,10 @@ from contact of fire by cements. No outside cornish is requisite to a platform r
                   <desc>〈◊〉</desc>
                </gap> houses of the ancient civilized world had, and most of the Asiatic and African houses on the coast of the Mediterranean sea, still have platform roofs. The houses in Algiers are all so, and of one height; so that the ladies visit from house to house and street to street, by walk<g ref="char:EOLhyphen"/>ing on the roofs of the houses. Platform roofs are cheaper than common ridge-roofs, shingled; and are safer against fire inside and out, and against the pressure of wind. Most houses burnt in country places take fire in the roofs whilst the family is gone on visits or to church. Then it is that children or servants take candles or light-wood to rummage closets, cuddies, and cock-lofts, which usually are lumbered with combustibles: or flakes of burning soot fall on the shingled roof.</p>
             <p>A platform roof may be thus constructed. Joists 12 or 13 inches deep at the big end, are to rest on the middle wall, and from thence slope two-tenths of an inch per foot to the smaller end on the exterior wall. Their thickness 2 5-10 or three inches. The distance be<g ref="char:EOLhyphen"/>tween them 12 or 14 inches, from centre to centre. Or the joists may be equally deep from end to end; and bat<g ref="char:EOLhyphen"/>tens which slope are to be fixed on the joists, for forming the platform roof with the said degree of slope. Be<g ref="char:EOLhyphen"/>tween the joists, at every five or six feet, fix to the joists at right angles, pieces of plank, nearly the depth of the joists. These would add to the strength of the joists, as so many braces, preventing their weakness laterally. Stout,
-<pb facs="tcp:033435_0006_0FF7475CB276F9D0" rendition="simple:additions"/>
+<pb facs="unknown:033435_0006_0FF7475CB276F9D0"
+                   rendition="simple:additions"/>
                <pb n="4"
-                   facs="tcp:033435_0007_0FF7470EF8988298"
+                   facs="unknown:033435_0007_0FF7470EF8988298"
                    rendition="simple:additions"/>
 rough, narrow boards, 3 or 4 inches broad, are nailed down across the joists with large nails; the better if rag<g ref="char:EOLhyphen"/>ged. The sun is powerful in drawing nails. On <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
@@ -167,19 +171,19 @@ rough, narrow boards, 3 or 4 inches broad, are nailed down across the joists wit
             </p>
             <p>
                <pb n="5"
-                   facs="tcp:033435_0008_0FF747179FD7BBC0"
+                   facs="unknown:033435_0008_0FF747179FD7BBC0"
                    rendition="simple:additions"/>Mr. Latrobe permits me to give here the composition of a cement used by him, and the manner of applying it to platform roofs.
 "The floor must rise about two or three inches in ten feet (two or three tenths of an inch in a foot.) First, lay a floor upon the <hi>Rafters,</hi>
                <note n="*" place="bottom">For so flat a covering or platform, <hi>rafters</hi> are useless, and expense is saved. The <hi>joists,</hi> a little sloped, suffice; or battens upon the joists may form the slope.</note> of narrow well-sea<g ref="char:EOLhyphen"/>soned plank cut into slips not wider than four inches. 2dly. Lay down upon the floor with <hi>boiling tar,</hi> a coat of <hi>sheathing paper,</hi> such as is used for sheathing ships. 3dly. One bushel pounded chalk, or <hi>unslacked lime,</hi> or <hi>lime slacked in the air,</hi> or of <hi>water slacked lime dried and pounded very fine.</hi> Two bushels <hi>clean coarse sand,</hi> and as much <hi>tar</hi> as is necessary to reduce it to a substance that will spread <hi>toughly when hot.</hi> The tar must be boiled and the mate<g ref="char:EOLhyphen"/>rials <hi>gradually</hi> mixed with them till they are in a proper state to lay on the paper. The stratum may be three quar<g ref="char:EOLhyphen"/>ters of an inch thick. Skreen <hi>gravel,</hi> so that the largest particles may be as big as large sized peas, and none much less than swan shot. Take a <hi>very hot day,</hi> when the com<g ref="char:EOLhyphen"/>position is somewhat softened by the heat of the sun, and with a garden roller, <hi>roll in</hi> as much of this gravel as it will take. The floor will then be a beautiful pavement, resembling Scagliola, and may be worked in mosaique.
 <pb n="6"
-                   facs="tcp:033435_0009_0FF74722BA054580"
+                   facs="unknown:033435_0009_0FF74722BA054580"
                    rendition="simple:additions"/>
 This covering is so light, that very little timber is requir<g ref="char:EOLhyphen"/>ed in the roof."</p>
             <p>Objections readily occur to new projects; and it is right that they should be well weighed and considered. It is said platform-roofs may answer in southern climates; but that in our more northern country, the weight of snow would be too great to be borne. This objection has the less force with me, who have had some experience on this head. I covered a house, thirty-six feet square, with a flat roof which sloped about a quarter of an inch to a foot The joists of poplar were two feet apart; nine inches deep at the upper end (the ridge of the roof) and about six and a half inches at the small end, where they rested on a wall. From the ridge to this wall was ten feet in length, and the joists from thence continued taper<g ref="char:EOLhyphen"/>ing further eight feet, where they rested on a plate sup<g ref="char:EOLhyphen"/>ported by brick pillars. Pine sawed laths, inch thick, were nailed across the joists. Common weak oyster-shell mortar, from old Indian collections of shells, was laid on the laths, three-fourths of an inch thick. Tiles six quarters of an inch thick were bedded in the mortar. The joints were filled with tar and sand; and the tiles and joints were covered and filled with half stuff, on which sand was strewed thick and rolled A gust of wind carried off most of the sand. Then again half-stuff and sheath<g ref="char:EOLhyphen"/>ing paper were laid on, and upon the paper half-stuff, sand and pebbles. Gusts of wind blew most of the paper off. It remained only on the roof over one of the rooms; which was tight, excepting in one place, where rains poured through, <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> a single thin coat of <hi>tar and fish-oil,</hi> laid on hot with a hair brush, totally stopt the leak. This
 <pb n="7"
-                   facs="tcp:033435_0010_0FF74724428DD6D0"
+                   facs="unknown:033435_0010_0FF74724428DD6D0"
                    rendition="simple:additions"/>
 roof bore the snows of near twenty winters, in Maryland, without the least attempt to shovel off the snow. Hav<gap reason="illegible: indecipherable" extent="1 letter">
                   <desc>•</desc>
@@ -193,7 +197,7 @@ roof bore the snows of near twenty winters, in Maryland, without the least attem
             </p>
             <p>
                <pb n="8"
-                   facs="tcp:033435_0011_0FF681E116CE5930"
+                   facs="unknown:033435_0011_0FF681E116CE5930"
                    rendition="simple:additions"/>Another objection is, that sudden changes of the wea<g ref="char:EOLhyphen"/>ther between great heats and torrents of cool rain, are very trying. But it is pretty certain that attention in the choice of the materials and laying on the covering will be effectual in resisting injuries from the weather; especially when relieved from much heat by the vent between plat<g ref="char:EOLhyphen"/>form and ceiling.</p>
             <p>The stair case in the above design may be best in <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -251,7 +255,7 @@ roof bore the snows of near twenty winters, in Maryland, without the least attem
             </p>
             <p>The drawing is of an elevation and plan fronting south. The entrance is at either of the sides, east or west: There
 <pb n="9"
-                   facs="tcp:033435_0012_0FF747318BC853B0"
+                   facs="unknown:033435_0012_0FF747318BC853B0"
                    rendition="simple:additions"/>
 are objections to balconies: but if desired, the east and west sides of the house <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
@@ -275,11 +279,11 @@ are objections to balconies: but if desired, the east and west sides of the hous
             </list>
             <p>
                <pb n="10"
-                   facs="tcp:033435_0013_0FF7473A4FD3D588"
+                   facs="unknown:033435_0013_0FF7473A4FD3D588"
                    rendition="simple:additions"/>In proportion as the walls are <hi>high,</hi> they should be thick and strong. The <hi>three-story</hi> house would have 36 feet of wall above ground. A <hi>two-story,</hi> would have 26 feet, and a <hi>one-story</hi> house would have 15 feet. So that if one story requires a wall 1 brick thick, two stories may have the basement 1 ½, and three stories 2 bricks thick: or say 1 ½, 2, 2 ½ bricks thick, the basement or first stories. The foundation wall should be three feet in the ground, for gaining firmness and to be out of the reach of severe frost.</p>
             <p>It may be sufficient for some families, and best suit their purposes to have but <hi>one</hi> or <hi>two</hi> stories of rooms. The lower the walls the stronger. It would be no great task to force water up, every evening in summer, for cooling the roof and other purposes. At Algiers, much of the women's work is done on the roof, where water is always at hand. They especially wash and dry their linen there. In Spain, they have their cloacas on the platform roof; where also are two cisterns of water: one for the use of the cook, the other for more common purposes, washing, &amp;c. From this the pipes of the cloa<g ref="char:EOLhyphen"/>cas are sluiced. At Cadiz, water is received into the cis<g ref="char:EOLhyphen"/>terns on the tops of the houses, from reservoirs or heads of water on the hills out of the town. Water might be raised to a head at the top of Mr. Morris's Quarry Hill, on the Schuylkill, for supplying reservoirs on the tops of the houses in Philadelphia. Consult ingenious men. The tide falling eight feet; and running 2 5-10ths miles in an hour, at least equal to the walking of horses in mill-work, could not works be so constructed that the impetus of the wa<g ref="char:EOLhyphen"/>ter of that river should move a wheel (I think a horizontal
 <pb n="11"
-                   facs="tcp:033435_0014_0FF747452FD25328"
+                   facs="unknown:033435_0014_0FF747452FD25328"
                    rendition="simple:additions"/>
 one) that would force the water wanted up to the head on the top of that hill? A horizontal wheel under water would forever turn one and the same way, whether the wa<g ref="char:EOLhyphen"/>ter runs ebbing or flowing; as above twenty years ago I experienced in a model.<note n="*" place="bottom">
                   <p>Thus from water thrown up, every house might have <hi>family baths</hi>; the most important of all building-improvements for the health and com<g ref="char:EOLhyphen"/>fort of families, that <gap reason="illegible: indecipherable" extent="1 span">
@@ -300,7 +304,7 @@ one) that would force the water wanted up to the head on the top of that hill? A
             <p>The <hi>basement</hi> and <hi>second stories</hi> may be divied according to the views of the builder, rather than by the annexed plan. The <hi>third story</hi> having the four square rooms at the corners of the plan thrown into closets, about 2 5-10ths feet deep, will admit of the thin partition as above laid down, to be omitted; and then the whole area (clear of the closets proposed) will divide into four roomy bed-cham<g ref="char:EOLhyphen"/>bers.</p>
             <p>The middle wall crossing the passages and dividing the large rooms, will bear most of the weight on the roof, and must therefore be particularly strong. The joists of the platform run from this wall north and south to the exte<g ref="char:EOLhyphen"/>rior walls.</p>
             <p>
-               <pb n="12" facs="tcp:033435_0015_0FF7474DCBB6C398"/>The recesses of the walls are shallow as may be; 1 5-10 foot clear of wall will do. If <hi>deep,</hi> they retain or concen<g ref="char:EOLhyphen"/>trate heat, and harbor musketoes.</p>
+               <pb n="12" facs="unknown:033435_0015_0FF7474DCBB6C398"/>The recesses of the walls are shallow as may be; 1 5-10 foot clear of wall will do. If <hi>deep,</hi> they retain or concen<g ref="char:EOLhyphen"/>trate heat, and harbor musketoes.</p>
             <list>
                <label>If the corner rooms be 10 feet sq.</label>
                <item>or 100×4=400 feet,</item>
@@ -315,7 +319,7 @@ one) that would force the water wanted up to the head on the top of that hill? A
 <q>Fire-places which were used to smoke, on his principles are cured of smoking; and such entire command is had of the draught of air, that with but little of attention to the state of the fire, as to its burning clear or not, by moving the sliding mantle downward for increasing the draught, then returning it for letting the heat into the room, and closing the valve in the throat of the chimney, just far enough for carrying off the watery particles of the fuel, only a small portion of the heat is suffered to es<g ref="char:EOLhyphen"/>cape up the chimney: consequently with very little consumption of fuel, even large rooms may be kept comfortable in the coldest seasons, as during the last winter he continually experienced; and the house is perfectly secure from any fire left in the fire-place at night.</q>
 I have in the late winter seen one of Mr. Peale's fire-places in its improved state, where the room was uncommonly large, 26 by 25 feet square and 15 feet
 <pb n="13"
-                   facs="tcp:033435_0016_0FF74754A8B6C678"
+                   facs="unknown:033435_0016_0FF74754A8B6C678"
                    rendition="simple:additions"/>
 high. On inquiry, it was ascertained to me that during the winter only small fires were kept burning from the morning, about seven o'clock till nine or ten at night, when it was let go down, and the family left the room to go to bed; that it preserved a warmth, not less than 48 of Farenheit, in the room till the fire was renewed next morning; and this was the case in the coldest nights, when out of doors the thermometer was at 10 degrees. That in the day the heat was steadily kept at about 60 degrees. There is, next door to mine, a fire-place very noted for smoking. After many vain attempts to cure it, it was closed up with brick-work, plaistered over, and so remained till lately, when Mr. Peale directed his im<g ref="char:EOLhyphen"/>provements to be applied to it. Now it is perfectly free from smoking in the very worst of winds and weather. What further proved to me the due portion of heat hav<g ref="char:EOLhyphen"/>ing been steadily preserved in Mr. Peale's above room, during the winter, was the high perfection in which, in March, I saw in it a collection of green house-plants, oranges, &amp;c. that had stood there the winter through. The room had two windows fronting westerly, and two south<g ref="char:EOLhyphen"/>erly, and I never saw green house-plants more perfectly kept.</p>
          </div>
